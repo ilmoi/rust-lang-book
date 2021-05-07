@@ -12,7 +12,11 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5014943-cca6-40d8-8df9-814d7ccca26d" name="Default Changelist" comment="" />
+    <list default="true" id="f5014943-cca6-40d8-8df9-814d7ccca26d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch19.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +77,11 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -93,7 +102,7 @@
       <workItem from="1620192598732" duration="5992000" />
       <workItem from="1620278832698" duration="963000" />
       <workItem from="1620284640014" duration="17489000" />
-      <workItem from="1620377446687" duration="606000" />
+      <workItem from="1620377446687" duration="11960000" />
     </task>
     <servers />
   </component>
@@ -112,26 +121,26 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="994" y="538" key="#com.intellij.fileTypes.FileTypeChooser/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1619944976974" />
-    <state width="1280" height="454" key="GridCell.Tab.0.bottom" timestamp="1620377428754">
+    <state width="1707" height="454" key="GridCell.Tab.0.bottom" timestamp="1620414604200">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1440" height="264" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1620151221702" />
-    <state width="1280" height="454" key="GridCell.Tab.0.bottom/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620377428754" />
-    <state width="1280" height="454" key="GridCell.Tab.0.center" timestamp="1620377428754">
+    <state width="1707" height="454" key="GridCell.Tab.0.bottom/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620414604200" />
+    <state width="1707" height="454" key="GridCell.Tab.0.center" timestamp="1620414604200">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1440" height="264" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1620151221701" />
-    <state width="1280" height="454" key="GridCell.Tab.0.center/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620377428754" />
-    <state width="1280" height="454" key="GridCell.Tab.0.left" timestamp="1620377428754">
+    <state width="1707" height="454" key="GridCell.Tab.0.center/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620414604200" />
+    <state width="1707" height="454" key="GridCell.Tab.0.left" timestamp="1620414604199">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1440" height="264" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1620151221700" />
-    <state width="1280" height="454" key="GridCell.Tab.0.left/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620377428754" />
-    <state width="1280" height="454" key="GridCell.Tab.0.right" timestamp="1620377428754">
+    <state width="1707" height="454" key="GridCell.Tab.0.left/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620414604199" />
+    <state width="1707" height="454" key="GridCell.Tab.0.right" timestamp="1620414604200">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state width="1440" height="264" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1620151221701" />
-    <state width="1280" height="454" key="GridCell.Tab.0.right/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620377428754" />
+    <state width="1707" height="454" key="GridCell.Tab.0.right/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620414604200" />
     <state width="2560" height="518" key="GridCell.Tab.1.bottom" timestamp="1620152835419">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
@@ -152,9 +161,13 @@
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="796" y="383" key="SettingsEditor/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620278881932" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1620307291844">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1620390662360">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620307291844" />
+    <state width="500" height="445" key="SwitcherDM/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620390662360" />
+    <state x="552" y="487" width="602" height="490" key="find.popup" timestamp="1620395844597">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="552" y="487" width="602" height="490" key="find.popup/2245.1440.1440.900/0.25.2560.1415/-2560.0.2560.1440@0.25.2560.1415" timestamp="1620395844597" />
   </component>
 </project>
